@@ -1,0 +1,24 @@
+{
+  "name": "todoapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  
+
+"dependencies":  {
+
+ "cookie-session": "~1.1.0",
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "ejs": "~2.1.4",
+    "morgan": "~1.6.1",
+    "serve-favicon": "~2.3.0"
+  }
+	"author": "Jussic  <justineclarkes@gmail.com> ",
+	"description": "A super basic todo list"
+
+}
